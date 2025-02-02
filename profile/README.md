@@ -30,7 +30,7 @@ All our projects follow open-source licenses. Check individual repositories for 
 
 ## 🌐 Connect With Us
 - GitHub: [Timber Byte](https://github.com/timber-byte)
-- Sea Rex: [Sea Rex](https://github.com/TyrannoSeahorseRex)
+- Harry: [Harry](https://github.com/MrHarryW)
 
 
 Thank you for visiting Timber Byte! We look forward to building amazing things together. 🚀
